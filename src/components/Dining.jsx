@@ -44,32 +44,32 @@ const Dining = () => {
             <h3>Dining</h3>
             <div className="card-row">
         <div className="card">
-          <img src={dining1} alt="Tourist 1" className="card-image" />
-          <div className="restaurant-name">Attraction 1</div>
+          <img src={dining1} alt="Restaurant 1" className="card-image" />
+          <div className="restaurant-name">Restaurant 1</div>
         </div>
         <div className="card">
-          <img src={dining1} alt="Tourist 2" className="card-image" />
-          <div className="restaurant-name">Attraction 2</div>
-        </div>
-      </div>
-      <div className="card-row">
-        <div className="card">
-          <img src={dining1} alt="Tourist 3" className="card-image" />
-          <div className="restaurant-name">Attraction 3</div>
-        </div>
-        <div className="card">
-          <img src={dining1} alt="Tourist 4" className="card-image" />
-          <div className="restaurant-name">Attraction 4</div>
+          <img src={dining1} alt="Restaurant 2" className="card-image" />
+          <div className="restaurant-name">Restaurant 2</div>
         </div>
       </div>
       <div className="card-row">
         <div className="card">
-          <img src={dining1} alt="Tourist 5" className="card-image" />
-          <div className="restaurant-name">Attraction 5</div>
+          <img src={dining1} alt="Restaurant 3" className="card-image" />
+          <div className="restaurant-name">Restaurant 3</div>
         </div>
         <div className="card">
-          <img src={dining1} alt="Tourist 6" className="card-image" />
-          <div className="restaurant-name">Attraction 6</div>
+          <img src={dining1} alt="Restaurant 4" className="card-image" />
+          <div className="restaurant-name">Restaurant 4</div>
+        </div>
+      </div>
+      <div className="card-row">
+        <div className="card">
+          <img src={dining1} alt="Restaurant 5" className="card-image" />
+          <div className="restaurant-name">Restaurant 5</div>
+        </div>
+        <div className="card">
+          <img src={dining1} alt="Restaurant 6" className="card-image" />
+          <div className="restaurant-name">Restaurant 6</div>
         </div>
       </div>
             <span style={{ marginTop: '40px' }}>See All</span>
